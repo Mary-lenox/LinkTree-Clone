@@ -6,7 +6,7 @@ const Navbar = () => {
         <div>
             <nav className='bg-white z-10 items-center absolute rounded-full w-[85vw] p-3 flex justify-between right-[7vw] top-[7vh]'>
                 <div className="logo flex gap-15 items-center">
-                    <img src="/logo.svg" alt="logo" className='w-[50px] pl-10'/>
+                    <img src="/logo.svg" alt="logo" className='w-20 pl-3'/>
                 <ul className='flex gap-7'>
                     <li>Templates</li>
                     <li>Marketplace</li>
