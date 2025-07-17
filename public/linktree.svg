@@ -1,0 +1,7 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+    .text { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 32px; fill: black; }
+  </style>
+  <text x="0" y="40" class="text">Linktree</text>
+</svg>
